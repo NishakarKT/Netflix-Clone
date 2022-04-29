@@ -1,0 +1,88 @@
+@media only screen and (max-width: 1060px) {
+  .nav__logo {
+    width: 70px !important;
+  }
+  .nav span {
+    margin-right: 15px !important;
+  }
+  .nav .MuiSvgIcon-root {
+    margin-right: 15px !important;
+  }
+  .nav {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+  }
+}
+
+@media only screen and (max-width: 948px) {
+  .nav__logo {
+    width: 60px !important;
+  }
+  .nav__options {
+    margin-left: 10px !important;
+  }
+  .nav__search {
+    width: 100px !important;
+    margin-right: 10px !important;
+  }
+  .nav span {
+    margin-right: 10px !important;
+  }
+  .nav .MuiSvgIcon-root {
+    margin-right: 10px !important;
+  }
+}
+
+@media only screen and (max-width: 730px) {
+  .nav__right {
+    display: none !important;
+  }
+  .banner__title {
+    font-size: 3rem !important;
+  }
+}
+
+@media only screen and (max-width: 550px) {
+  .banner__contents {
+    margin-left: 5px !important;
+  }
+  .banner__title {
+    font-size: 2.5rem !important;
+  }
+  .banner__description {
+    font-size: 0.9rem !important;
+  }
+  .nav__search {
+    font-size: 13px !important;
+  }
+  .nav__options {
+    display: none !important;
+  }
+  .banner__button {
+    font-size: 10px !important;
+  }
+  .row h2 {
+    margin-left: 10px !important;
+  }
+  .row__poster {
+    margin-left: 0 !important;
+  }
+}
+
+@media only screen and (max-width: 250px) {
+  .banner__title {
+    font-size: 2rem !important;
+  }
+  .banner__description {
+    font-size: 0.8rem !important;
+  }
+  .nav__search {
+    width: 30% !important;
+    font-size: 10px !important;
+    margin-right: 5px !important;
+  }
+  .nav .MuiSvgIcon-root {
+    font-size: 20px !important;
+    margin-right: 0 !important;
+  }
+}
